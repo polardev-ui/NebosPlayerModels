@@ -1,0 +1,8 @@
+Name: Cutie Patotie
+Upload Date: 4/6/2025 
+Texture Count: 2
+Objects: 6
+Vertices: 1,510
+Edges: 2,978
+Faces: 1,486
+Triangles: 2,984
