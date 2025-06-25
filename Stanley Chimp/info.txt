@@ -1,8 +1,0 @@
-Name: Stanley Chimp
-Upload Date: 2/28/2025
-Texture Count: 2
-Objects: 6
-Vertices: 4,078
-Edges: 8,128
-Faces: 4,064
-Triangles: 8,128
