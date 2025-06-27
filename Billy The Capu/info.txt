@@ -1,0 +1,8 @@
+Name: Billy The Capu
+Upload Date: 3/9/2025 
+Texture Count: 2
+Objects: 5
+Vertices: 3,492
+Edges: 6,948
+Faces: 3,472
+Triangles: 6,952

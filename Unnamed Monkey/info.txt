@@ -1,0 +1,8 @@
+Name: Unnamed Monkey
+Upload Date: 2/17/2025 
+Texture Count: 3
+Objects: 8
+Vertices: 2,579
+Edges: 5,097
+Faces: 2,540
+Triangles: 5,114
