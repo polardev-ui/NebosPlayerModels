@@ -1,8 +1,0 @@
-Name: turkey the chimp
-Upload Date: 3/8/2025
-Texture Count: 2
-Objects: 5
-Vertices: 2,806
-Edges: 5,584
-Faces: 2,792
-Triangles: 5,584
