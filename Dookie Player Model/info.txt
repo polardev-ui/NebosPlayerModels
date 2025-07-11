@@ -1,0 +1,8 @@
+Name: Dookie Player Model
+Upload Date: 3/22/2025 
+Texture Count: 4
+Objects: 4
+Vertices: 2,750
+Edges: 5,472
+Faces: 2,736
+Triangles: 5,472

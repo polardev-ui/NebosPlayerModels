@@ -1,0 +1,8 @@
+Name: Terry Walker
+Upload Date: 2/19/2025
+Texture Count: 2
+Objects: 5
+Vertices: 6,350
+Edges: 12,672
+Faces: 6,336
+Triangles: 12,672

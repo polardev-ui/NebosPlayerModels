@@ -1,0 +1,8 @@
+Name: James Robbins
+Upload Date: 2/17/2025 
+Texture Count: 2
+Objects: 6
+Vertices: 2,697
+Edges: 5,349
+Faces: 2,668
+Triangles: 5,362

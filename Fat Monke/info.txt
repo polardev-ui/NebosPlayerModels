@@ -1,0 +1,8 @@
+Name: Fat Monke
+Upload Date: 3/21/2025 
+Texture Count: 2
+Objects: 4
+Vertices: 1,687
+Edges: 3,347
+Faces: 1,674
+Triangles: 3,344

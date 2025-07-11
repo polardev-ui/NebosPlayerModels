@@ -1,0 +1,8 @@
+Name: Robert The Toon
+Upload Date: 3/11/2025 
+Texture Count: 2
+Objects: 5
+Vertices: 4,845
+Edges: 9,654
+Faces: 4,825
+Triangles: 9,658

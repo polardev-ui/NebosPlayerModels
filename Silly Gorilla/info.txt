@@ -1,0 +1,8 @@
+Name: Silly Gorilla
+Upload Date: 3/22/2025 
+Texture Count: 2
+Objects: 5
+Vertices: 1,100
+Edges: 2,162
+Faces: 1,078
+Triangles: 2,168
